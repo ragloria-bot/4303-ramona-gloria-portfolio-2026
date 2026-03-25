@@ -3,3 +3,16 @@ locale = 'en-us'
 title = 'My New Hugo Project'
 staticDir = ["assets_static"]
 theme = "PaperMod"
+[params.profileMode]
+    enabled = true
+    title = "Ramona Gloria"
+    subtitle = "Texas Tech University Student | Computer Applications"
+    imageUrl = "images/profile.jpg" # Place this image in your static/images/ folder
+    imageWidth = 120
+    imageHeight = 120
+    [[params.profileMode.buttons]]
+        name = "Projects"
+        url = "projects"
+    [[params.profileMode.buttons]]
+        name = "Resume"
+        url = "resume.pdf"
