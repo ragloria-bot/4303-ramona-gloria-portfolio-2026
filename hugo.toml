@@ -6,8 +6,9 @@ theme = "PaperMod"
 [params.profileMode]
     enabled = true
     title = "Ramona Gloria"
-    subtitle = "Texas Tech University Student | Computer Applications"
-    <br><br> Insert your second description here. This will appear as a separate block of text below your main subtitle."
+    subtitle = """
+Texas Tech University Student | Computer Applications <br><br>
+This is my second description text that I want to show on a new line."""
     imageUrl = "images/RamonaGloria-TTU Card.jpg" # Place this image in your static/images/ folder
     imageWidth = 250
     imageHeight = 300
