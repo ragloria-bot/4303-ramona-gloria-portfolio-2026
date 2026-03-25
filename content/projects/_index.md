@@ -8,5 +8,4 @@ cover:
     alt: "App Screenshot"
 ---
 
-## Project Overview
 Write your project details, features, and technical stack here using 
