@@ -1,5 +1,8 @@
-+++
-date = '2026-03-24T22:13:34-05:00'
-draft = false
-title = 'Contact'
-+++
+---
+title: "Contact"
+date: 2026-03-24
+draft: false
+---
+
+# Contact Me
+You can reach me at: example@email.com
