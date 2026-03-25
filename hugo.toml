@@ -4,7 +4,7 @@ title = 'Ramona Gloria | Bridging Design & Development'
 staticDir = ["assets_static"]
 theme = "PaperMod"
 [params.profileMode]
-    enabled = true
+    enabled = false
     title = "Ramona Gloria"
     subtitle = "Texas Tech University Student | Computer Applications"
     Content = "This is a much longer description area where you can write several paragraphs about yourself or your site."
