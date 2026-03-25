@@ -2,11 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/</loc>
+    <lastmod>2026-03-24T21:53:33-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/posts/</loc>
+    <loc>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/tags/</loc>
   </url>
