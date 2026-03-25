@@ -1,4 +1,5 @@
-title: "My Web App"
+---
+title: "Computer Application Projects"
 date: 2026-03-24
 draft: false
 summary: "A brief description of what this project does."
