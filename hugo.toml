@@ -7,8 +7,7 @@ theme = "PaperMod"
     enabled = true
     title = "Ramona Gloria"
     subtitle = "Texas Tech University Student | Computer Applications"
-    ### Welcome to my Portfoilo where my current projects as well as  
-    experience is listed.
+    Content = "This is a much longer description area where you can write several paragraphs about yourself or your site."
     imageUrl = "images/RamonaGloria-TTU Card.jpg" # Place this image in your static/images/ folder
     imageWidth = 250
     imageHeight = 300
