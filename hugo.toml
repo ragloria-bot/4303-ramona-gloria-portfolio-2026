@@ -2,3 +2,4 @@ baseURL = "https://github.com/ragloria-bot/4303-ramona-gloria-portfolio-2026"
 locale = 'en-us'
 title = 'My New Hugo Project'
 staticDir = ["assets_static"]
+theme = "PaperMod"
