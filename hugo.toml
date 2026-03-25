@@ -32,9 +32,5 @@ theme = "PaperMod"
     name = "Contact"
     url = "/contact/"
     weight = 30
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 20
+  
     
