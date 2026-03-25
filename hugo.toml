@@ -1,4 +1,4 @@
-baseURL = "https://ragloria-bot.github.io"
+baseURL = "https://github.com/ragloria-bot/4303-ramona-gloria-portfolio-2026.git"
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "ananke"
