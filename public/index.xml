@@ -6,7 +6,24 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/about/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
+&lt;p&gt;Hello! I am a developer/designer using the PaperMod theme.
+This is where you can write your professional bio, skills, and background.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/contact/</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/contact/</guid>
+      <description>&lt;h1 id=&#34;contact-me&#34;&gt;Contact Me&lt;/h1&gt;
+&lt;p&gt;You can reach me at: &lt;a href=&#34;mailto:example@email.com&#34;&gt;example@email.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
