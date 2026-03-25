@@ -1,5 +1,10 @@
-+++
-date = '2026-03-24T22:06:19-05:00'
-draft = false
-title = 'About'
-+++
+---
+title: "About Me"
+date: 2026-03-24
+draft: false
+---
+
+# About Me
+
+Hello! I am a developer/designer using the PaperMod theme. 
+This is where you can write your professional bio, skills, and background.
