@@ -7,7 +7,7 @@ theme = "PaperMod"
     enabled = true
     title = "Ramona Gloria"
     subtitle = """
-Texas Tech University Student | Computer Applications <br><br>  
+**Texas Tech University Student | Computer Applications** <br><br>  
 This is my second description text that I want to show on a new line.
 """
     imageUrl = "images/RamonaGloria-TTU Card.jpg" # Place this image in your static/images/ folder
