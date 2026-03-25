@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = https://ragloria-bot.github.io/4303-ramona-gloria-portfolio-2026/
 locale = 'en-us'
 title = 'My New Hugo Project'
 theme = "ananke"
-staticDir = ["assets_static"]`
+staticDir = ["assets_static"]
