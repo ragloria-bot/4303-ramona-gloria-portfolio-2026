@@ -45,7 +45,9 @@ This is my second description text that I want to show on a new line.
     name = "Contact"
     url = "/contact/"
     weight = 50
-  
+  [markup.goldmark.renderer]
+    unsafe = true
+
 
   
     
