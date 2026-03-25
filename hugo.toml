@@ -7,7 +7,7 @@ theme = "PaperMod"
     enabled = true
     title = "Ramona Gloria"
     subtitle = "Texas Tech University Student | Computer Applications"
-    imageUrl = "assets_static\images\RamonaGloria-TTU Card.jpg" # Place this image in your static/images/ folder
+    imageUrl = "assets_static/images/RamonaGloria-TTU Card.jpg" # Place this image in your static/images/ folder
     imageWidth = 120
     imageHeight = 120
     [[params.profileMode.buttons]]
