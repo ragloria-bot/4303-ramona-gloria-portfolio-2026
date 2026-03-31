@@ -8,7 +8,9 @@ theme = "PaperMod"
     title = "Ramona Gloria"
     subtitle = """
 **Texas Tech University Student | Computer Applications** <br><br>  
-This is my second description text that I want to show on a new line.
+Designing for the user, developing for the future. I'm Ramona Gloria,  
+a student developer passionate about crafting pixel-perfect interfaces  
+and robust, scalable, and secure backend systems.
 """
     imageUrl = "images/RamonaGloria-TTU Card.jpg" # Place this image in your static/images/ folder
     imageWidth = 250
