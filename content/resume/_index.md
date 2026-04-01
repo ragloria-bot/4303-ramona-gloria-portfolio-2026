@@ -1,7 +1,6 @@
 ---
-title: "Resume"
-date: 2024-03-25
-draft: false
+title: "Interactive Resume"
+layout: "page"
 ---
 
 ## Experience
@@ -10,3 +9,5 @@ draft: false
 
 ## Education
 - Degree from University
+
+{{< interactive-resume >}}
