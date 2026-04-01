@@ -1,6 +1,7 @@
 ---
-title: "Interactive Resume"
-layout: "page"
+title: "Resume"
+date: 2024-03-25
+draft: false
 ---
 
 ## Experience
@@ -8,6 +9,3 @@ layout: "page"
 - Job Title at Company (Dates)
 
 ## Education
-- Degree from University
-
-{{< interactive-resume >}}
