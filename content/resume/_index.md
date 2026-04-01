@@ -9,3 +9,7 @@ draft: false
 - Job Title at Company (Dates)
 
 ## Education
+<<<<<<< HEAD
+=======
+- Degree from University
+>>>>>>> parent of 09b2798 (added interactive resume file)
