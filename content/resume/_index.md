@@ -9,3 +9,4 @@ draft: false
 - Job Title at Company (Dates)
 
 ## Education
+- Degree from University
