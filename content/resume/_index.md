@@ -11,4 +11,4 @@ draft: false
 ## Education
 - Degree from University
 
-You can download my [Resume PDF](/resume.pdf) here.
+You can download my [Resume PDF](assets_static\resume.pdf) here.
