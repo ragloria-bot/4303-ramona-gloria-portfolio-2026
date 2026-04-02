@@ -19,7 +19,7 @@ and robust, scalable, and secure backend systems.
         name = "Projects"
         url = "projects"
     [[params.profileMode.buttons]]
-        name = "Resume"
+        name = "Resume pdf"
         url = "resume.pdf"
     [menu]
   [[menu.main]]
