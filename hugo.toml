@@ -40,7 +40,7 @@ and robust, scalable, and secure backend systems.
   [[menu.main]]
     identifier = "resume"
     name = "Resume"
-    url = "/resume/"
+    url = "/resume/resume.pdf"
     weight = 40
   [[menu.main]]
     identifier = "contact"
