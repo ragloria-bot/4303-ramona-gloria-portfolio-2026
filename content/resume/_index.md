@@ -11,4 +11,4 @@ draft: false
 ## Education
 - Degree from University
 
-[Download my Resume]({{< "resume.pdf" | relURL >}})
+[Download my Resume Here](resume.pdf)
