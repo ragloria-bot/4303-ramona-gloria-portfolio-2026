@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Ramona Gloria | Bridging Design &amp; Development</title>
     <link>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/tags/</link>
