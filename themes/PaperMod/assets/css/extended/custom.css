@@ -1,7 +1,6 @@
 /* This changes the icon color */
 #theme-toggle {
     color: #FFD700; /* Use any hex code, e.g., Gold */
-     padding: 5px; /* Adds a bit more "hit box" area around the larger icon */
 }
 
 /* Optional: Change the color only when hovering */
@@ -16,5 +15,5 @@
 
 /* 2. Add space between the title/logo and the toggle */
 .logo-switches {
-    gap: 40px; /* Adjust this value to increase/decrease the gap */
+    gap: 20px; /* Adjust this value to increase/decrease the gap */
 }
