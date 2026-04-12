@@ -15,5 +15,5 @@
 
 /* 2. Add space between the title/logo and the toggle */
 .logo-switches {
-    gap: 20px; /* Adjust this value to increase/decrease the gap */
+    gap: 40px; /* Adjust this value to increase/decrease the gap */
 }
