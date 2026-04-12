@@ -1,6 +1,7 @@
 /* This changes the icon color */
 #theme-toggle {
     color: #FFD700; /* Use any hex code, e.g., Gold */
+     padding: 5px; /* Adds a bit more "hit box" area around the larger icon */
 }
 
 /* Optional: Change the color only when hovering */
