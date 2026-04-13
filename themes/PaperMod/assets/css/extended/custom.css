@@ -17,35 +17,3 @@
 .logo-switches {
     gap: 20px; /* Adjust this value to increase/decrease the gap */
 }
-/* 1. Force the container to handle the spacing */
-.nav {
-    display: flex;
-    justify-content: space-between; /* Puts equal space between the 3 items */
-    align-items: center;
-    flex-wrap: nowrap; /* Prevents them from stacking on smaller screens */
-}
-
-/* 2. Remove the 'auto' margins that are blocking the 'space-between' logic */
-.logo, 
-#menu, 
-button#theme-toggle {
-    margin: 0 !important; 
-}
-
-/* 3. Ensure the Toggle Switch is exactly in the center */
-button#theme-toggle {
-    display: flex;
-    justify-content: center;
-    flex: 1; /* This makes the toggle occupy the middle "zone" */
-}
-
-/* 4. Keep the Logo on the far left and Menu on the far right */
-.logo {
-    flex: 1;
-    justify-content: flex-start;
-}
-
-#menu {
-    flex: 1;
-    justify-content: flex-end;
-}
