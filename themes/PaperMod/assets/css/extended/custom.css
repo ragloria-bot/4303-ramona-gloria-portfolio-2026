@@ -13,12 +13,27 @@
     stroke: #FFA500 !important; /* Orange outline */
 }
 
-/* 3. Spacing between Logo and Toggle */
-.logo {
-    margin-right: 30px; /* Pushes everything to the right of the logo away */
+/*3. Spacing Fix - Target the container and the specific button */
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-/* Alternative spacing if the above doesn't work */
 .logo-switches {
-    gap: 30px !important; 
     display: flex !important;
+    align-items: center;
+    gap: 30px !important; /* This is the space between title and toggle */
+}
+
+/* Hard override: If gap still fails, force margin on the toggle itself */
+#theme-toggle {
+    margin-left: 30px !important;
+}
+
+/* Force the container to respect the gap */
+.logo-switches {
+    display: inline-flex !important; /* Ensures it acts as a flex container */
+    gap: 35px !important;            /* High value to make it obvious */
+    align-items: center;
+}
