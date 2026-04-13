@@ -1,11 +1,11 @@
 /* This changes the icon color */
 #theme-toggle {
     color: #FFD700; /* Use any hex code, e.g., Gold */
+    margin-left: 20px;
 }
 
 /* Optional: Change the color only when hovering */
 #theme-toggle:hover {
-    color: #ff8800; /* Example: Orange on hover */
     fill: #FFA500; /* Orange fill on hover */
     stroke: #FFA500;
 }
@@ -15,8 +15,8 @@
     width: 24px;
     fill: #FFD700; /* Gold fill */
     stroke: #FFD700; /* Optional: matches the outline to the fill */
+    transition: all 0.2s ease; /* Smooth color transition */
 }
-
 /* 2. Add space between the title/logo and the toggle */
 .logo-switches {
     gap: 20px; /* Adjust this value to increase/decrease the gap */
