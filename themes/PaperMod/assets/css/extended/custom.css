@@ -1,23 +1,24 @@
-/* This changes the icon color */
-#theme-toggle {
-    color: #FFD700; /* Use any hex code, e.g., Gold */
-    margin-left: 20px;
+/* 1. Icon Size & Base Color */
+#theme-toggle svg {
+    height: 28px !important; /* Slightly bigger to be noticeable */
+    width: 28px !important;
+    fill: #FFD700 !important;   /* Gold fill */
+    stroke: #FFD700 !important; /* Gold outline */
+    transition: all 0.2s ease;
 }
 
-/* Optional: Change the color only when hovering */
-#theme-toggle:hover {
-    fill: #FFA500; /* Orange fill on hover */
-    stroke: #FFA500;
+/* 2. Hover Color - MUST target the svg specifically */
+#theme-toggle:hover svg {
+    fill: #FFA500 !important;   /* Orange fill */
+    stroke: #FFA500 !important; /* Orange outline */
 }
-/* 1. Make the icon bigger */
-#theme-toggle svg {
-    height: 24px; /* Default is usually around 18-20px */
-    width: 24px;
-    fill: #FFD700; /* Gold fill */
-    stroke: #FFD700; /* Optional: matches the outline to the fill */
-    transition: all 0.2s ease; /* Smooth color transition */
+
+/* 3. Spacing between Logo and Toggle */
+.logo {
+    margin-right: 30px; /* Pushes everything to the right of the logo away */
 }
-/* 2. Add space between the title/logo and the toggle */
+
+/* Alternative spacing if the above doesn't work */
 .logo-switches {
-    gap: 20px; /* Adjust this value to increase/decrease the gap */
-}
+    gap: 30px !important; 
+    display: flex !important;
