@@ -5,12 +5,16 @@
 
 /* Optional: Change the color only when hovering */
 #theme-toggle:hover {
-    color: #FFA500; /* Example: Orange on hover */
+    color: #ff8800; /* Example: Orange on hover */
+    fill: #FFA500; /* Orange fill on hover */
+    stroke: #FFA500;
 }
 /* 1. Make the icon bigger */
 #theme-toggle svg {
     height: 24px; /* Default is usually around 18-20px */
     width: 24px;
+    fill: #FFD700; /* Gold fill */
+    stroke: #FFD700; /* Optional: matches the outline to the fill */
 }
 
 /* 2. Add space between the title/logo and the toggle */
