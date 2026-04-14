@@ -2,8 +2,13 @@
 title: "Project Proposal"
 date: 2025-09-30
 draft: false
-summary:
- This project proposal is a plan for a potential        business, "Arctic Treats" official website, designed to capture the brand's vibrant energy. It features a full flavor menu, operational details like business hours and locations, and direct contact information to create a seamless experience for local customers. <!--more-->
+summary: |
+ This project proposal is a plan for a potential        
+ business, "Arctic Treats" official website, designed to 
+ capture the brand's vibrant energy. It features a full 
+ flavor menu, operational details like business hours and 
+ locations, and direct contact information to create a 
+ seamless experience for local customers. 
 
 cover:
     image: "images/project-proposal.jpg"
