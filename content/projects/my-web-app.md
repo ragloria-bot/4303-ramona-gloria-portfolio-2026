@@ -1,12 +1,12 @@
 ---
-title: "My Web App"
-date: 2026-03-24
+title: "Project Proposal
+date: 2025-09-30
 draft: false
-summary: "A brief description of what this project does."
+summary: "This project proposal is a plan for a potential business, Arctic Treats' official website, designed to capture the brand's vibrant energy. It features a full flavor menu, operational details like business hours and locations, and direct contact information to create a seamless experience for local customers."
 cover:
     image: "images/project-proposal.jpg" # Place this in static/images/
-    alt: "App Screenshot"
+    alt: "Project Proposal"
 ---
 
 # Project Overview
-Write your project details, features, and technical stack here using 
+This project proposal presents a detailed plan for the development of a prototype website for a small business. It covers the objectives, target audience, features, and technologies that will be utilized throughout the development process. The primary goal of the website is to deliver an engaging user experience while effectively showcasing the business's products and services. Key elements of the proposal include a comprehensive planning outline that addresses design, functionality, and deployment strategies, all aimed at ensuring a successful launch and ongoing operation of the website. 
