@@ -7,7 +7,7 @@ summary: |
 
 cover:
     image: "images/pantry-pro-pic.jpg"
-    alt: "Product Prototype | Product Design Computer Applications II"
+    alt: "Product Prototype | Product Design Comp. App. II"
 ---
 
 # Project Overview
