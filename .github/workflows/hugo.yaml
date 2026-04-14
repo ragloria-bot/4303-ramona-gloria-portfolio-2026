@@ -104,4 +104,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-    summaryLength: 300 # Set this high enough for your full text
+        with:
+           summaryLength: 300 # Set this high enough for your full text
