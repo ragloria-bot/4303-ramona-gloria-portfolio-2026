@@ -6,7 +6,7 @@ summary: |
   The PantryPro project was developed to create a product prototype that solves a pervasive real-life issue: decision fatigue after a demanding workday. This mental barrier often makes it difficult for individuals to transform available ingredients into nutritious meals, leading to expensive, impulsive "panic orders" even when their pantry is fully stocked.
 
 cover:
-    image: "images/pantry-pro-pic.jpg
+    image: "images/pantry-pro-pic.jpg"
     alt: "Product Prototype | Product Design Computer Applications II"
 ---
 
