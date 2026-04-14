@@ -2,12 +2,15 @@
 title: "Knowledge Base Website - PCOS"
 date: 2025-10-22
 draft: false
-summary:  |
- This Knowledge Base project is a specialized PCOS     resource platform built with a modern, developer-centric workflow (Obsidian, VS Code, and GitHub). It prioritizes information accessibility through organized categorization and a robust search engine, ensuring that users can easily find reliable medical and practical support. By focusing on cross-device responsiveness, the platform provides a seamless learning experience for individuals seeking PCOS-related education and resources. 
-
-
+summary: |
+  This Knowledge Base project is a specialized PCOS resource platform built with a modern, 
+  developer-centric workflow (Obsidian, VS Code, and GitHub). It prioritizes information 
+  accessibility through organized categorization and a robust search engine, ensuring that 
+  users can easily find reliable medical and practical support. By focusing on cross-device 
+  responsiveness, the platform provides a seamless learning experience for individuals seeking 
+  PCOS-related education and resources.
 cover:
-    image: "images/knowledgebase-web.jpg" # Place this in static/images/
+    image: "images/knowledgebase-web.jpg"
     alt: "Knowledge Base Website - PCOS"
 ---
 
