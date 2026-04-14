@@ -62,3 +62,7 @@
     transform: translateY(-2px); /* Slight lift effect */
     text-decoration: none;
 }
+/* Hide the anchor link hash tag on hover */
+.anchor {
+    display: none !important;
+}
