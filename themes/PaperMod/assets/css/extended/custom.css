@@ -83,3 +83,16 @@
 .figma-btn:hover {
     background-color: #8a46e5 !important;
 }
+/* Ensure the image doesn't grow outside the card borders */
+.entry-cover {
+    overflow: hidden;
+    border-radius: 8px; /* Optional: matches card corners */
+}
+
+.entry-cover img {
+    transition: transform 0.5s ease !important;
+}
+
+.post-entry:hover .entry-cover img {
+    transform: scale(1.06); /* Slight 6% zoom */
+}
