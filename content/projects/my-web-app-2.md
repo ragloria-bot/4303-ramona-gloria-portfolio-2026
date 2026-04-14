@@ -12,4 +12,6 @@ cover:
 # Project Overview
 The Knowledge Base Website project is an extensive platform dedicated to delivering accessible information and resources about Polycystic Ovary Syndrome (PCOS). With its user-friendly interface, the website includes advanced search capabilities and well-organized content categories, aimed at enhancing the learning experience for users. Developed using tools such as Obsidian, Visual Studio Code, GitHub, and GitHub Desktop, the website is designed to be responsive across different devices. The primary goal of the project is to educate and support individuals affected by PCOS by providing trustworthy information, practical advice, and valuable resources.
 
-[Visit Project Website](https://ragloria-bot.github.io/ramonas-knowlegde-base/){.project-button}
+<a href="https://ragloria-bot.github.io/ramonas-knowlegde-base/" target="_blank" class="project-button">
+   Visit Project Website ↗
+</a>
