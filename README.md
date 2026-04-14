@@ -2,8 +2,6 @@
 
 ## What is this?
 This is my professional digital portfolio, designed to showcase my creative and technical journey. It serves as a central hub for my design projects, software applications, and visual studies, featuring detailed case studies and live demonstrations of my work.
-<<<<<<< HEAD
-=======
 
 ## Why does it exist?
 I created this project to provide a cohesive and accessible look at my professional capabilities. It solves the problem of fragmented project files by consolidating my best work into a clean, navigable interface for potential collaborators and employers to explore.
@@ -17,4 +15,3 @@ GitHub Pages: Used as the hosting platform for its reliability and seamless inte
 
 ## How to visit it
 You can view the live project here: [Ramona Gloria's Portfolio](https://ragloria-bot.github.io/4303-ramona-gloria-portfolio-2026/)
->>>>>>> b86e71387036ad5ad7abbb319126bde257c54709
