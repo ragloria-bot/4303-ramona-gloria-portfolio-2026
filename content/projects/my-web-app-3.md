@@ -16,7 +16,7 @@ Plate Mate is a prototype app designed to enhance meal management through innova
 <a href="https://www.figma.com/design/GgwCfcod1AfUijgezVfpme/Ramona-Gloria-Plate-Mate-Project-02?m=auto&t=bkw8ML5foI9mDRoT-6" target="_blank" class="project-button">
    Visit Project Website ↗
 </a>
-<a href="https://www.figma.com/design/GgwCfcod1AfUijgezVfpme/Ramona-Gloria-Plate-Mate-Project-02?t=bkw8ML5foI9mDRoT-1" target="_blank" class="project-button" style="background-color: #A259FF; color: white !important;">
+<a href="https://www.figma.com/proto/GgwCfcod1AfUijgezVfpme/Ramona-Gloria-Plate-Mate-Project-02?node-id=43-932&p=f&t=Dkc2K2byGUGXsMR0-1&scaling=scale-down&content-scaling=fixed&page-id=1%3A2&starting-point-node-id=43%3A932" target="_blank" class="project-button" style="background-color: #A259FF; color: white !important;">
    View Figma Prototype 🎨
 </a>
 </div>
