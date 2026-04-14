@@ -1,5 +1,5 @@
 ---
-title: "Product Prototype | Product Design Computer Applications II"
+title: "Product Prototype | Product Design Comp. App. II"
 date: 2025-03-01
 draft: false
 summary: |
