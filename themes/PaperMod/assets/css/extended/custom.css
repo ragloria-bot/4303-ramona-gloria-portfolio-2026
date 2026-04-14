@@ -37,3 +37,9 @@
     gap: 35px !important;            /* High value to make it obvious */
     align-items: center;
 }
+.entry-content {
+    display: block !important;
+    -webkit-line-clamp: unset !important;
+    line-clamp: unset !important;
+    max-height: none !important;
+}
