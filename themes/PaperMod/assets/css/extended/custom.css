@@ -66,3 +66,20 @@
 .anchor {
     display: none !important;
 }
+/* Container to align buttons side-by-side */
+.button-group {
+    display: flex;
+    flex-wrap: wrap; /* Allows stacking on small mobile screens */
+    gap: 15px;       /* Space between the two buttons */
+    margin: 20px 0;
+}
+
+/* Specific color for the Figma button */
+.figma-btn {
+    background-color: #A259FF !important; /* Figma Purple */
+    color: white !important;
+}
+
+.figma-btn:hover {
+    background-color: #8a46e5 !important;
+}
