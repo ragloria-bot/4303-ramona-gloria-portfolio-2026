@@ -26,4 +26,7 @@ By prioritizing user-centric functionality over technical complexity, the protot
 <a href="https://www.figma.com/proto/kssIcHKxdIqqcT0Rl3ecFt/4302-Final-Project--Copy-?node-id=2002-80&p=f&t=M9YgOMaORtZsl2Ue-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2002%3A80" target="_blank" class="project-button" style="background-color: #A259FF; color: white !important;">
    View Figma Prototype 🎨
 </a>
+<a href="/4303-ramona-gloria-portfolio-2026/pantry-pro.pdf" target="_blank" class="project-button pdf-btn">
+   Case Study (PDF) 📄
+</a>
 </div>
