@@ -26,6 +26,12 @@ profileMode:
 
 ## 🛠 Experience
 
+### **Simulator Maintenance Technician II (KC-46)**
+**Flight Safety, Altus AFB** | *April 2026 - Present*
+* Maintain aircrew training devices such as Pilot Part Task Trainer (PTTP), Boom Operator Part Task Trainer (PTTB), Boom Operator Trainer (BOT), Fuselage Trainer (FuT), WST, and associated equipment.
+* Providing full-time technical support for operational procedures.
+* **Specialized Skills:** Avionics Software, Data Analysis, Systems Integration, and Simulation Programming.
+
 ### **Co-Pastor/Treasurer**
 **Healing Waters Ministries** | *Oct 2016 – Present*
 * Prepare bi-weekly sermons and lead Sunday services.
