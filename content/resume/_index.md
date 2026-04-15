@@ -70,7 +70,7 @@ profileMode:
 ## 👥 Organizations & Leadership
 
 * **Vice President:** TRIO/WINDS, Phi Theta Kappa.
-* **Member:** Student Senate Officer, WOSC Rotaract Liaison, Pioneer Programmers, Science Club.
+* **Member:** Student Senate Officer, WOSC Rotaract Liaison & Board Memeber, Pioneer Programmers, Science Club, and Hispanic Student Association.
 
 ---
 
