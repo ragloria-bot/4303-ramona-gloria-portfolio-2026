@@ -62,4 +62,70 @@
   {{- end }}
 </article>
 
+<article class="resume">
+  <header>
+    <h1>{{ .Params.name }}</h1>
+    <p>
+      {{ .Params.address }} | {{ .Params.phone }} | 
+      <a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a>
+    </p>
+  </header>
+
+  {{ with .Params.experience }}
+  <section>
+    <h2>Professional Experience</h2>
+    {{ range . }}
+    <div class="entry">
+      <div class="header">
+        <strong>{{ .title }}</strong> — <em>{{ .company }}</em>
+        <span class="date">{{ .range }}</span>
+      </div>
+      <ul>
+        {{ range .tasks }}
+        <li>{{ . }}</li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  {{ with .Params.education }}
+  <section>
+    <h2>Education</h2>
+    {{ range . }}
+    <p>
+      <strong>{{ .institution }}</strong><br>
+      {{ .degree }} {{ with .date }}({{ . }}){{ end }} {{ with .status }}<em>- {{ . }}</em>{{ end }}
+    </p>
+    {{ end }}
+  </section>
+  {{ end }}
+
+  <section>
+    <h2>Skills</h2>
+    <div class="skills-grid">
+      <div>
+        <strong>Aviation & Tech:</strong>
+        <ul>{{ range .Params.skills.aviation }}<li>{{ . }}</li>{{ end }}</ul>
+      </div>
+      <div>
+        <strong>Mechanical:</strong>
+        <ul>{{ range .Params.skills.mechanical }}<li>{{ . }}</li>{{ end }}</ul>
+      </div>
+    </div>
+  </section>
+
+  {{ with .Params.references }}
+  <section>
+    <h2>References</h2>
+    <ul>
+      {{ range . }}
+      <li>{{ .name }}: {{ .phone }}</li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+</article>
+
 {{- end }}{{/* end main */}}
