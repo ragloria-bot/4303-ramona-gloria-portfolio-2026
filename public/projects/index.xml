@@ -9,6 +9,13 @@
     <lastBuildDate>Mon, 08 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Excalidraw | Product Design</title>
+      <link>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/my-web-app-4/</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/my-web-app-4/</guid>
+      <description>The Plate Mate core flow serves as a strategic blueprint mapping the primary user journey, focusing on integrating meal planning, recipe discovery, and grocery list generation for an intuitive experience. It acts as a foundational guide for app development and user-centered design.</description>
+    </item>
+    <item>
       <title>Figma Prototype | Product Design</title>
       <link>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/my-web-app-3/</link>
       <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
@@ -33,6 +40,20 @@ capture the brand&amp;rsquo;s vibrant energy. It features a full
 flavor menu, operational details like business hours and
 locations, and direct contact information to create a
 seamless experience for local customers.</description>
+    </item>
+    <item>
+      <title>Product Prototype | Product Design Comp. App. II</title>
+      <link>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/my-web-app-6/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/my-web-app-6/</guid>
+      <description>The PantryPro project was developed to create a product prototype that solves a pervasive real-life issue: decision fatigue after a demanding workday. This mental barrier often makes it difficult for individuals to transform available ingredients into nutritious meals, leading to expensive, impulsive &amp;ldquo;panic orders&amp;rdquo; even when their pantry is fully stocked.</description>
+    </item>
+    <item>
+      <title>Product Synthesis | Systems and Methods of Information Organization and Management</title>
+      <link>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/my-web-app-5/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ragloria-bot/4303-ramona-gloria-portfolio-2026/projects/my-web-app-5/</guid>
+      <description>This project was a synthesis product. The PCOS Resource Collection acts as a comprehensive bridge between patients and clinicians by offering an evidence-based repository rooted in the 2023 International Guidelines. While patients often understand their immediate symptoms and practitioners are familiar with diagnostic criteria, both groups frequently lack access to a holistic care model that integrates biological, psychological, and social factors.</description>
     </item>
   </channel>
 </rss>
