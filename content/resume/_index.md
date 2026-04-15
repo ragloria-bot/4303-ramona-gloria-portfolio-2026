@@ -67,7 +67,10 @@ profileMode:
 ---
 
 ## 📞 References
-*Available upon request, including Kelia Manos, Victoria Bruce, and Tracey Dempsey.*
+* Kelia Manos     (580) 477-7925
+* Victoria Bruce  (580) 471-1072
+* Tracey Dempsey  (580) 301-4009
+* Rachel Beckner  (580) 477-7702
 ---
 
 [Download my Resume Here](resume.pdf)
