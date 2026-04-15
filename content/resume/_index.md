@@ -63,7 +63,7 @@ profileMode:
 
 * **Technical:** Electronic Assembler, Industrial Maintenance Mechanic, Fluid Power Mechanic.
 * **Leadership:** Leadership Academy Certificate, National Vocational-Technical Honor Society.
-* **Community:** Coordinator for "City On Our Knees" (2010–2015), Nehemiah Initiative volunteer.
+* **Community:** Coordinator for "City On Our Knees" (2010–2015), Nehemiah Initiative and •	Operation Care volunteer.
 
 ---
 
