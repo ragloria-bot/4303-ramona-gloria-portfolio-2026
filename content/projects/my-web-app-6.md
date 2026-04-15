@@ -27,4 +27,3 @@ By prioritizing user-centric functionality over technical complexity, the protot
    View Figma Prototype 🎨
 </a>
 </div>
-content\projects\pantry-pro.pdf
