@@ -2,11 +2,6 @@
 title: "Ramona Hinojosa Gloria"
 layout: "profile"
 description: "Simulator Maintenance Technician | Computing Applications Student | Community Leader"
-buttons:
-  - name: Email Me
-    url: "mailto:ramonahinojosa22@gmail.com"
-  - name: View Experience
-    url: "#experience"
 
 # Profile Mode Settings
 profileMode:
@@ -16,10 +11,17 @@ profileMode:
     508 Buena Vista • Altus, OK 73521 | (580) 471-8004
     
     Current Student at Texas Tech University (B.S. Computing Applications)
-  imageUrl: "" # Add your photo link here
+  imageUrl: "" 
   imageTitle: Ramona Hinojosa Gloria
   imageWidth: 120
   imageHeight: 120
+  buttons:
+    - name: "📂 Download Resume"
+      url: "resume.pdf"
+    - name: "📧 Email Me"
+      url: "mailto:ramonahinojosa22@gmail.com"
+    - name: "📜 View Experience"
+      url: "#experience"
 ---
 
 ## 🛠 Experience
@@ -67,10 +69,7 @@ profileMode:
 ---
 
 ## 📞 References
-* Kelia Manos     (580) 477-7925
-* Victoria Bruce  (580) 471-1072
-* Tracey Dempsey  (580) 301-4009
-* Rachel Beckner  (580) 477-7702
----
-
-[Download my Resume Here](resume.pdf)
+* **Kelia Manos** (580) 477-7925
+* **Victoria Bruce** (580) 471-1072
+* **Tracey Dempsey** (580) 301-4009
+* **Rachel Beckner** (580) 477-7702
