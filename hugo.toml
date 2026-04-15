@@ -1,8 +1,8 @@
 summaryLength = 1000
-baseURL = "https://github.com/ragloria-bot/4303-ramona-gloria-portfolio-2026"
+baseURL = "https://ragloria-bot.github.io/4303-ramona-gloria-portfolio-2026/"
 locale = 'en-us'
 title = 'Ramona Gloria | Bridging Design & Development'
-staticDir = ["assets_static"]
+staticDir = ["static"]
 theme = "PaperMod"
 [params.profileMode]
     enabled = true
