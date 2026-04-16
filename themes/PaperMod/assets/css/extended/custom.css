@@ -118,37 +118,29 @@
     cursor: default;
 }
 
-/* THE REACTIVE PART: Hover Effects */
-.info-card:hover {
-    transform: translateY(-8px); /* Lifts the card up */
-    border-color: var(--primary); /* Changes border color to your theme primary */
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Deepens the shadow */
+.interactive-card {
+    border: 1px solid var(--border);
+    padding: 20px;
+    border-radius: 12px;
+    background: var(--entry);
+    box-shadow: var(--shadow);
+    transition: all 0.3s ease; /* Makes it reactive */
 }
 
-/* Image zoom effect on hover */
-.info-card img {
-    width: 100%; 
-    height: 180px; 
-    object-fit: cover; 
-    border-radius: 8px; 
+.interactive-card:hover {
+    transform: translateY(-10px); /* Lifts the card */
+    border-color: var(--primary); /* Glows theme color */
+}
+
+.interactive-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
     margin-bottom: 15px;
-    transition: transform 0.3s ease;
 }
 
-.info-card:hover img {
-    transform: scale(1.02); /* Slight zoom on the image */
-}
-
-.info-card h3 {
-    margin-top: 0;
-    transition: color 0.3s ease;
-}
-
-.info-card:hover h3 {
-    color: var(--primary); /* Title changes color on hover */
-}
-
-.info-card p {
-    font-size: 0.9em; 
+.interactive-card p {
+    font-size: 0.9em;
     color: var(--secondary);
 }
