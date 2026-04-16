@@ -99,3 +99,56 @@
 .post-entry:hover .entry-header h2 {
     color: #FFD700 !important; /* Gold highlight */
 }
+/* The Grid Layout */
+.card-container {
+    display: grid; 
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); 
+    gap: 20px; 
+    margin-top: 20px;
+}
+
+/* The Base Card Style */
+.info-card {
+    border: 1px solid var(--border); 
+    padding: 20px; 
+    border-radius: 12px; 
+    background: var(--entry); 
+    box-shadow: var(--shadow);
+    transition: all 0.3s ease; /* This makes the movement smooth */
+    cursor: default;
+}
+
+/* THE REACTIVE PART: Hover Effects */
+.info-card:hover {
+    transform: translateY(-8px); /* Lifts the card up */
+    border-color: var(--primary); /* Changes border color to your theme primary */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15); /* Deepens the shadow */
+}
+
+/* Image zoom effect on hover */
+.info-card img {
+    width: 100%; 
+    height: 180px; 
+    object-fit: cover; 
+    border-radius: 8px; 
+    margin-bottom: 15px;
+    transition: transform 0.3s ease;
+}
+
+.info-card:hover img {
+    transform: scale(1.02); /* Slight zoom on the image */
+}
+
+.info-card h3 {
+    margin-top: 0;
+    transition: color 0.3s ease;
+}
+
+.info-card:hover h3 {
+    color: var(--primary); /* Title changes color on hover */
+}
+
+.info-card p {
+    font-size: 0.9em; 
+    color: var(--secondary);
+}
