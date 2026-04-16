@@ -8,4 +8,4 @@ cover:
     alt: "App Screenshot"
 ---
 
-Listed are my most recent projects completed at Texas Tech University for my Undergraduate Degree.
+Listed are some of my most recent projects completed at Texas Tech University as part of my Undergraduate Degree.
