@@ -129,7 +129,7 @@
 
 .interactive-card:hover {
     transform: translateY(-10px); /* Lifts the card */
-    border-color: var(--primary); /* Glows theme color */
+    border-color: #FFA500; /* Glows theme color */
 }
 
 .interactive-card img {
