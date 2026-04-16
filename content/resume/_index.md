@@ -79,3 +79,9 @@ profileMode:
 * **Victoria Bruce** (580) 471-1072
 * **Tracey Dempsey** (580) 301-4009
 * **Rachel Beckner** (580) 477-7702
+
+<div class="button-group">
+  <a href="/4303-ramona-gloria-portfolio-2026/resume.pdf" download class="project-button resume-btn">
+     Download Resume 📥
+  </a>
+</div>
