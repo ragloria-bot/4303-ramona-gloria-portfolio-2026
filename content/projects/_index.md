@@ -8,4 +8,4 @@ cover:
     alt: "App Screenshot"
 ---
 
-Write your project details, features, and technical stack here using 
+Listed are my most recent projects completed at Texas Tech University for my Undergraduate Degree.
