@@ -8,4 +8,4 @@ cover:
     alt: "App Screenshot"
 ---
 
-Listed are some of my most recent projects completed at Texas Tech University as part of my Undergraduate Degree.
+This section provides an overview of my recent projects completed at Texas Tech University as part of my undergraduate studies. Each project is categorized into its own section for easy navigation, allowing you to access detailed information about each one. You can click on the respective project for more insights, and each project includes a live URL for further analysis.
