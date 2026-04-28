@@ -74,11 +74,8 @@ profileMode:
 
 ---
 
-## 📞 References
-* **Kelia Manos** (580) 477-7925
-* **Victoria Bruce** (580) 471-1072
-* **Tracey Dempsey** (580) 301-4009
-* **Rachel Beckner** (580) 477-7702
+## 📞 References Available Upon Request
+
 
 <div class="button-group">
   <a href="resume-2026.pdf" download class="project-button resume-btn">
