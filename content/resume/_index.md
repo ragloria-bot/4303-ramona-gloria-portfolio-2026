@@ -81,7 +81,7 @@ profileMode:
 * **Rachel Beckner** (580) 477-7702
 
 <div class="button-group">
-  <a href="resume.pdf" download class="project-button resume-btn">
+  <a href="resume-2026.pdf" download class="project-button resume-btn">
      Download Resume 📥
   </a>
 </div>
