@@ -155,7 +155,7 @@
 
 /* Targets the second button in Profile Mode */
 .profile .buttons a:nth-child(2) {
-    background: #A259FF !important; /* Figma Purple */
+    background: #FFD700 !important; /* Figma Purple */
     color: #ffffff !important;      /* White text */
     border-radius: 8px;
     font-weight: 700;
