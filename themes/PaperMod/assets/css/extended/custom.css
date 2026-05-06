@@ -194,9 +194,3 @@ body {
 .header, .footer, .main {
     background-color: #FFF0F5 !important;
 }
-
-/* This ensures the dark mode toggle doesn't override it if you want it pink always */
-.dark {
-    --theme: #FFF0F5;
-    background-color: #FFF0F5 !important;
-}
