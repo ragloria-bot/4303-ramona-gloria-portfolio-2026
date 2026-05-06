@@ -14,7 +14,11 @@ This section provides an overview of my recent projects completed at Texas Tech 
   <a href="/projects/my-web-app/" class="btn-project">Project 1</a>
   <a href="/projects/my-web-app-2/" class="btn-project">Project 2</a>
   <a href="/projects/my-web-app-3/" class="btn-project">Project 3</a>
-  <!-- Repeat for all 6 -->
+  <a href="/projects/my-web-app-4/" class="btn-project">Project 4</a>
+  <a href="/projects/my-web-app-5/" class="btn-project">Project 5</a>
+  <a href="/projects/my-web-app-3/" class="btn-project">Project 6</a>
+  <a href="/projects/my-web-app-3/" class="btn-project">Project 
+  
 </div>
 
 <style>
