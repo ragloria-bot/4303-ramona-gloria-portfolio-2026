@@ -17,19 +17,4 @@ This section provides an overview of my recent projects completed at Texas Tech 
   <a href="/content/projects/my-web-app-4.md" class="btn-project">Excalidraw</a>
   <a href="/content/projects/my-web-app-5.md" class="btn-project">Product Synthesis</a>
   <a href="/content/projects/my-web-app-6.md" class="btn-project">Product Prototype 
-  
-</div>
-
-<style>
-  .btn-project {
-    display: block;
-    padding: 15px;
-    background: var(--tertiary);
-    color: var(--primary);
-    text-align: center;
-    border-radius: 8px;
-    text-decoration: none;
-    transition: 0.3s;
-  }
-  .btn-project:hover { background: var(--secondary); }
-</style>
+  </div>
