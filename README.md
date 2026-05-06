@@ -13,5 +13,8 @@ HTML, CSS, & JavaScript: For custom styling and interactive components.
 GitHub Actions: To automate the deployment process, ensuring the live site updates every time I push new content.
 GitHub Pages: Used as the hosting platform for its reliability and seamless integration with my source code.
 
-## How to visit it
+## How to access it
 You can view the live project here: [Ramona Gloria's Portfolio](https://ragloria-bot.github.io/4303-ramona-gloria-portfolio-2026/)
+
+## What changed from Project 01 to Project 02?
+Since the initiation of Project 01, I have enhanced all my navigation pages by incorporating relevant information tailored to each page. Additionally, I've integrated a photo gallery showcasing my projects, included direct links to my project sites, and implemented a new color scheme for a refreshed layout.
