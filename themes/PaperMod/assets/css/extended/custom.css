@@ -97,7 +97,7 @@
     transform: scale(1.06); /* Slight 6% zoom */
 }
 .post-entry:hover .entry-header h2 {
-    color: #FFD700 !important; /* Gold highlight */
+    color: #f25fba !important; /* Gold highlight */
 }
 /* The Grid Layout */
 .card-container {
