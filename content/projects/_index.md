@@ -9,3 +9,12 @@ cover:
 ---
 
 This section provides an overview of my recent projects completed at Texas Tech University as part of my undergraduate studies. Each project is categorized into its own section for easy navigation, allowing you to access detailed information about each one. You can click on the respective project for more insights, and each project includes a live URL for further analysis.
+
+<div class="button-group">
+  <a href="/projects/my-web-app/" class="project-button">Project 1</a>
+  <a href="/projects/my-web-app-2/" class="project-button">Project 2</a>
+  <a href="/projects/my-web-app-3/" class="project-button">Project 3</a>
+  <a href="/projects/my-web-app-4/" class="project-button">Project 4</a>
+  <a href="/projects/my-web-app-5/" class="project-button">Project 5</a>
+  <a href="/projects/my-web-app-6/" class="project-button">Project 6</a>
+</div>
