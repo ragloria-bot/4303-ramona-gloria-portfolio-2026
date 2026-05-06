@@ -145,7 +145,7 @@
     color: var(--secondary);
 }
 
-.btn-project {
+.button-group {
     display: block;
     padding: 15px;
     background: var(--tertiary);
@@ -155,4 +155,4 @@
     text-decoration: none;
     transition: 0.3s;
   }
-  .btn-project:hover { background: var(--secondary); }
+  .button-group:hover { background: var(--secondary); }
