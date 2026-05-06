@@ -144,15 +144,3 @@
     font-size: 0.9em;
     color: var(--secondary);
 }
-
-.button-group {
-    display: block;
-    padding: 15px;
-    background: var(--tertiary);
-    color: var(--primary);
-    text-align: center;
-    border-radius: 8px;
-    text-decoration: none;
-    transition: 0.3s;
-  }
-  .button-group:hover { background: var(--secondary); }
