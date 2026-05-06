@@ -145,32 +145,33 @@
     color: var(--secondary);
 }
 
-/* Targets the first button in Profile Mode */
-.profile .buttons a:nth-child(1) {
-    display: inline-block;
-    background-color: #FFD700; /* Gold */
-    color: #000000 !important;  /* Black text */
-    padding: 10px 22px;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: 700;
-    margin: 20px 0;
-    transition: transform 0.2s ease, background-color 0.2s ease;
-    border: none;
+/* 1. Spacing for the container */
+.profile .buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px; 
+    flex-wrap: wrap;
+    margin-top: 25px;
 }
 
-/* Targets the second button in Profile Mode */
-.profile .buttons a:nth-child(2) {
-    display: inline-block;
-    background-color: #FFD700; /* Gold */
-    color: #000000 !important;  /* Black text */
+/* 2. Color for the "Projects" button (First) */
+.profile .buttons a:nth-child(1) {
+    background-color: #FFD700 !important; /* Gold */
+    color: #000000 !important;           /* Black text */
     padding: 10px 22px;
     border-radius: 6px;
-    text-decoration: none;
     font-weight: 700;
-    margin: 20px 0;
-    transition: transform 0.2s ease, background-color 0.2s ease;
-    border: none;
+    text-decoration: none;
+}
+
+/* 3. Color for the "Resume PDF" button (Second) */
+.profile .buttons a:nth-child(2) {
+    background-color: #A259FF !important; /* Figma Purple */
+    color: #ffffff !important;           /* White text */
+    padding: 10px 22px;
+    border-radius: 6px;
+    font-weight: 700;
+    text-decoration: none;
 }
 
 .profile .buttons a:hover {
