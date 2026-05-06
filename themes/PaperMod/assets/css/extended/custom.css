@@ -9,8 +9,8 @@
 
 /* 2. Hover Color - MUST target the svg specifically */
 #theme-toggle:hover svg {
-    fill: #FFA500 !important;   /* Orange fill */
-    stroke: #FFA500 !important; /* Orange outline */
+    fill: #f25fba !important;   /* Orange fill */
+    stroke: #f25fba !important; /* Orange outline */
 }
 
 /*3. Spacing Fix - Target the container and the specific button */
@@ -58,7 +58,7 @@
 }
 
 .project-button:hover {
-    background-color: #FFA500; /* Orange */
+    background-color: #f25fba; /* Orange */
     transform: translateY(-2px); /* Slight lift effect */
     text-decoration: none;
 }
@@ -129,7 +129,7 @@
 
 .interactive-card:hover {
     transform: translateY(-10px); /* Lifts the card */
-    border-color: #FFA500; /* Glows theme color */
+    border-color: #f25fba; /* Glows theme color */
 }
 
 .interactive-card img {
@@ -176,7 +176,7 @@
 
 .profile .buttons a:hover {
     transition: 0.2s ease;
-    background-color: #FFA500 !important; /* Orange now has priority */
+    background-color: #f25fba !important; /* Orange now has priority */
     transform: translateY(-2px); 
     text-decoration: none;
 }
