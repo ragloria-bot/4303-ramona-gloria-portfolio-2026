@@ -180,3 +180,23 @@
     transform: translateY(-2px); 
     text-decoration: none;
 }
+
+/* This changes the main background of the site */
+:root {
+    --theme: #FFF0F5; /* LavenderBlush (a very light pink) */
+}
+
+body {
+    background-color: #FFF0F5 !important;
+}
+
+/* If you want the post cards and header to also match or be slightly different */
+.header, .footer, .main {
+    background-color: #FFF0F5 !important;
+}
+
+/* This ensures the dark mode toggle doesn't override it if you want it pink always */
+.dark {
+    --theme: #FFF0F5;
+    background-color: #FFF0F5 !important;
+}
