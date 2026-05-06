@@ -144,3 +144,25 @@
     font-size: 0.9em;
     color: var(--secondary);
 }
+
+/* Targets the first button in Profile Mode */
+.profile .buttons a:nth-child(1) {
+    background: #FFD700 !important; /* Gold */
+    color: #000000 !important;      /* Black text */
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+/* Targets the second button in Profile Mode */
+.profile .buttons a:nth-child(2) {
+    background: #A259FF !important; /* Figma Purple */
+    color: #ffffff !important;      /* White text */
+    border-radius: 8px;
+    font-weight: 700;
+}
+
+.profile .buttons a:hover {
+    transform: translateY(-2px);
+    transition: 0.2s ease;
+    filter: brightness(1.1); /* Slightly brightens the color on hover */
+}
