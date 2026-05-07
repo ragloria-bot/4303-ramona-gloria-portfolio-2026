@@ -181,22 +181,29 @@
     text-decoration: none;
 }
 
-/* --- LIGHT MODE ONLY --- */
-/* Target everything only when the 'dark' class is NOT present */
-
-body:not(.dark) {
-    background-color: #f4cfdf !important; /* Your main background color */
+/* =========================================
+   LIGHT MODE: Pink Background & Light Cards
+   ========================================= */
+body:not(.dark), 
+:not(.dark) .main {
+    background-color: #f4cfdf !important; /* Main Darker Pink Background */
 }
 
-:not(.dark) .header {
-    background-color: #ffeef6 !important; /* A lighter pink for the nav bar */
-    border-bottom: 1px solid rgba(0,0,0,0.05); /* Optional: subtle line under nav */
+/* This makes your Cards and Nav Bar lighter so they "pop" */
+:not(.dark) .post-entry, 
+:not(.dark) .header, 
+:not(.dark) .footer {
+    background-color: #ffeef6 !important; 
+    border: none;
 }
 
-:not(.dark) .footer, :not(.dark) .main {
-    background-color: #f4cfdf !important;
+/* Ensures text is dark enough to read on the pink */
+:not(.dark) p, :not(.dark) h1, :not(.dark) h2, :not(.dark) .entry-header {
+    color: #2c3e50 !important;
 }
 
-/* --- DARK MODE (LEAVE AS IS) --- */
-/* By not adding styles for .dark here, Hugo PaperMod 
-   will use its default charcoal colors automatically. */
+/* =========================================
+   DARK MODE: Standard Charcoal
+   ========================================= */
+/* By not adding styles for .dark here, PaperMod 
+   reverts to its original charcoal/black colors. */
