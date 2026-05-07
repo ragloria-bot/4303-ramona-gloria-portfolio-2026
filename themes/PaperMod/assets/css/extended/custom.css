@@ -46,7 +46,7 @@
 /* This targets the 'project-button' class we just created */
 .project-button {
     display: inline-block;
-    background-color: #FFD700; /* Gold */
+    background-color: #f7e377; /* Gold */
     color: #000000 !important;  /* Black text */
     padding: 10px 22px;
     border-radius: 6px;
@@ -166,7 +166,7 @@
 
 /* 2. Color for the "Projects" button (First) */
 .profile .buttons a:nth-child(1) {
-    background-color: #FFD700 !important; /* Gold */
+    background-color: #f7e377 !important; /* Gold */
     color: #000000 !important;           /* Black text */
     padding: 10px 22px;
     border-radius: 6px;
@@ -176,7 +176,7 @@
 
 /* 3. Color for the "Resume PDF" button (Second) */
 .profile .buttons a:nth-child(2) {
-    background-color: #FFD700 !important; /* Figma Purple */
+    background-color: #f7e377 !important; /* Figma Purple */
     color: #000000 !important;           /* White text */
     padding: 10px 22px;
     border-radius: 6px;
