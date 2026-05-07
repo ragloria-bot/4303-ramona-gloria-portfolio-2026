@@ -1,5 +1,5 @@
 ---
-title: "Project Proposal"
+title: "Project Proposal | Artic Treats"
 date: 2025-09-30
 draft: false
 summary: |
