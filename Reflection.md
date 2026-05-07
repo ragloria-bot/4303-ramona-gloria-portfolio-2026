@@ -6,13 +6,13 @@ to a structured button gallery. Originally, my project landing page was just a s
 after receiving peer feedback that the navigation was confusing, I decided to build a dedicated navigation  
 menu using custom CSS and Hugo’s relref shortcodes. I also had to make a critical decision regarding the  
 site's color theory. Initially, my buttons blended into the background in certain viewing modes. I decided  
-to use a high-visibility gold (#FFD700) for my primary project links. This wasn't just an aesthetic choice;  
+to use a high-visibility soft yellow (#f7e377) for my primary project links. This wasn't just an aesthetic choice;  
 it was a functional one intended to ensure that potential employers wouldn't miss the most important parts  
 of my site, regardless of whether they used light or dark mode.
 
 ## What Worked
 The transition from placeholder content to substantive text went very well. I am particularly satisfied
-with the interactive hover effects. Implementing the orange (#FFA500) hover transition and the "lift" effect
+with the interactive hover effects. Implementing the hot pink (#f25fba) hover transition and the "lift" effect
 (translateY) made the site feel much more professional and responsive to the user's actions. Additionally,
 the Flexbox implementation for my button group worked perfectly. It solved the issue of the buttons feeling
 stuck together and ensured that the gallery looks organized on both a desktop monitor and a mobile phone.
