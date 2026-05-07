@@ -181,7 +181,27 @@
     text-decoration: none;
 }
 
-/* LIGHT MODE: Force the background to light pink */
-body.light {
-    background-color: #FFF0F5 !important; /* Lavender Blush Pink */
+/* 1. Define the Light Mode color (Pink) */
+:root {
+    --theme: #FFF0F5 !important;
+}
+
+/* 2. Define the Dark Mode color (Charcoal) */
+/* This will only trigger when the 'dark' class is active */
+.dark {
+    --theme: #1d1e20 !important;
+    --entry: #2e2e33 !important;
+    --primary: #dadadb !important;
+    --secondary: #9b9c9d !important;
+    --tertiary: #414244 !important;
+    --content: #c4c4c5 !important;
+}
+
+/* 3. Apply the theme color to the background */
+body {
+    background-color: var(--theme) !important;
+}
+
+.main, .header, .footer {
+    background-color: var(--theme) !important;
 }
