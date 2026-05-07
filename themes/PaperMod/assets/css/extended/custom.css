@@ -184,3 +184,8 @@
 .list {
     background: #DCAE96 !important; /* Light Brown */
 }
+
+[data-theme=dark] .list {
+    background: rgb
+#181a1e !important; /* Dark Blue for dark mode */
+}
