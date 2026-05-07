@@ -181,12 +181,6 @@
     text-decoration: none;
 }
 
-/* Custom background for light mode */
-:root {
-    --theme: #DCAE96  !important; /* Hex code for Dusty Rose */
-}
-
-/* Ensure dark mode remains unchanged */
-.dark {
-    --theme: #1d1e20  !important; /* Default PaperMod dark color */
+.list {
+    background: #DCAE96 !important; /* Light Brown */
 }
