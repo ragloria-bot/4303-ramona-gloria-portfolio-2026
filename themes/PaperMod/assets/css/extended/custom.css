@@ -122,7 +122,7 @@
     border: 5px solid var(--border);
     padding: 20px;
     border-radius: 12px;
-    background: #e45096;
+    background: #5f5c5d;
     box-shadow: var(--shadow);
     transition: all 0.3s ease; /* Makes it reactive */
 }
@@ -197,4 +197,9 @@ header.header {
 
 [data-theme=dark] header.header {
     background: #4b4148 !important; /* Dark Blue for dark mode */
+}
+
+a.entry-link {
+    border: 1px solid #f25fba !important; /* Orange border */
+    background:  #5f5c5d !important; /* Orange background */
 }
