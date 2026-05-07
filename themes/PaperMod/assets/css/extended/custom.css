@@ -188,3 +188,9 @@
 [data-theme=dark] .list {
     background: #181a1e !important; /* Dark Blue for dark mode */
 }
+
+/* Change the background color of the main header */
+header, #header, .header-container {
+    background-color: #323232 !important; 
+    color: #f8e0eb; /* This changes the text color inside the header */
+}
