@@ -122,7 +122,7 @@
     border: 5px solid var(--border);
     padding: 20px;
     border-radius: 12px;
-    background: #e9b1cb !important; /* Dusty Rose */
+    background: #efd3e0 !important; /* Dusty Rose */
     box-shadow: var(--shadow);
     transition: all 0.3s ease; /* Makes it reactive */
 }
