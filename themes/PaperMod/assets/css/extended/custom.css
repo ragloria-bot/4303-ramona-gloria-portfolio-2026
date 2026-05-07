@@ -207,3 +207,22 @@ body:not(.dark),
    ========================================= */
 /* By not adding styles for .dark here, PaperMod 
    reverts to its original charcoal/black colors. */
+   /* --- FIXING BIO TEXT READABILITY --- */
+
+/* Targets the 'Ramona Gloria' title and the bio paragraph below it */
+:not(.dark) .profile .profile_inner h1,
+:not(.dark) .profile .profile_inner .profile_description {
+    color: #1d1e20 !important; /* Dark charcoal for high contrast */
+}
+
+/* If your subtitle (tagline) is still too light, this targets it specifically */
+:not(.dark) .profile .profile_inner h2 {
+    color: #2c3e50 !important;
+}
+
+/* This makes sure the text remains white/light when you switch to Dark Mode */
+.dark .profile .profile_inner h1,
+.dark .profile .profile_inner .profile_description,
+.dark .profile .profile_inner h2 {
+    color: #e1e1e1 !important;
+}
