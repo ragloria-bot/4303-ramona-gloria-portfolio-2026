@@ -190,7 +190,8 @@ body:not(.dark) {
 /* This keeps your cards/header white/standard while the background is pink */
 :not(.dark) .post-entry, 
 :not(.dark) .header, 
-:not(.dark) .footer {
+:not(.dark) .footer
+:not(.dark) .nav {
     background-color: #ffffff !important; 
 }
 
