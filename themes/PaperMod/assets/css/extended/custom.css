@@ -182,22 +182,16 @@
 }
 
 /* --- LIGHT MODE --- */
-body:not(.dark) {
+body{
     /* Changing this to a slightly darker "Dusty Rose" or "Darker Pink" */
     background-color: #f4cfdf !important; 
 }
 
 /* This keeps your cards/header white/standard while the background is pink */
-:not(.dark) .post-entry, 
-:not(.dark) .header, 
-:not(.dark) .footer
-:not(.dark) .nav {
+.post-entry, 
+.header, 
+.footer
+.nav {
     background-color: #ffffff !important; 
 }
 
-
-/* --- DARK MODE --- */
-body.dark {
-    /* Darkening the background to a deep charcoal */
-    background-color: #121212 !important; 
-}
