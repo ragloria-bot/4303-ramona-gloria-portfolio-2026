@@ -200,10 +200,3 @@ body.dark {
     /* Darkening the background to a deep charcoal */
     background-color: #121212 !important; 
 }
-
-/* This keeps the cards the standard lighter charcoal so they pop */
-.dark .post-entry, 
-.dark .header, 
-.dark .footer {
-    background-color: #1d1e20 !important; 
-}
