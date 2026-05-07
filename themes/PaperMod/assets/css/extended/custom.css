@@ -158,7 +158,7 @@
 .profile .buttons {
     display: flex;
     justify-content: center;
-    gap: 30px; 
+    gap: 20px; 
     flex-wrap: wrap;
     margin-top: 25px;
 }
