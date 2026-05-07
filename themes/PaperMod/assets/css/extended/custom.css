@@ -207,3 +207,7 @@ header.header {
 [data-theme=dark] header.header {
     background: #5f5c5d !important; /* Dark Blue for dark mode */
 }
+
+[data-theme=dark] a.entry-link {
+    color: #ffffff !important; /* Dark Blue for dark mode */
+}
