@@ -122,7 +122,7 @@
     border: 5px solid var(--border);
     padding: 20px;
     border-radius: 12px;
-    background: #e9b1cb;
+    background: #e45096;
     box-shadow: var(--shadow);
     transition: all 0.3s ease; /* Makes it reactive */
 }
@@ -142,7 +142,7 @@
 
 .interactive-card p {
     font-size: 0.9em;
-    color: var(--secondary);
+    color: #000000;
 }
 
 /* 1. Spacing for the container */
