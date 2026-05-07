@@ -181,17 +181,35 @@
     text-decoration: none;
 }
 
-/* --- LIGHT MODE --- */
-body{
-    /* Changing this to a slightly darker "Dusty Rose" or "Darker Pink" */
-    background-color: #f4cfdf !important; 
+/* --- DARK MODE SETTINGS --- */
+/* This triggers only when dark mode is toggled ON */
+.dark {
+    /* 1. Deep charcoal background (The space outside the cards) */
+    --theme: #121212 !important; 
+    
+    /* 2. Standard lighter charcoal for the CARDS/Entries */
+    --entry: #1d1e20 !important; 
+    
+    /* 3. Standard lighter charcoal for HEADER and FOOTER */
+    --tertiary: #1d1e20 !important; 
 }
 
-/* This keeps your cards/header white/standard while the background is pink */
-.post-entry, 
-.header, 
-.footer
-.nav {
-    background-color: #ffffff !important; 
+/* Apply the variables to the body and main containers */
+body.dark {
+    background-color: var(--theme) !important;
 }
 
+/* Force the cards (entries) to remain the standard color */
+.dark .post-entry, .dark .post-single {
+    background-color: var(--entry) !important;
+}
+
+/* --- LIGHT MODE SETTINGS --- */
+/* Your background remains light pink, but cards stay white */
+body:not(.dark) {
+    background-color: #FFF0F5 !important;
+}
+
+:not(.dark) .post-entry, :not(.dark) .post-single {
+    background-color: #ffffff !important;
+}
