@@ -2,14 +2,14 @@
 #theme-toggle svg {
     height: 28px !important; /* Slightly bigger to be noticeable */
     width: 28px !important;
-    fill: #FFD700 !important;   /* Gold fill */
-    stroke: #FFD700 !important; /* Gold outline */
+    fill: #c4aa19 !important;   /* Gold fill */
+    stroke: #ffd700 !important; /* Gold outline */
     transition: all 0.2s ease;
 }
 
 /* 2. Hover Color - MUST target the svg specifically */
 #theme-toggle:hover svg {
-    fill: #f25fba !important;   /* Orange fill */
+    fill: #f740ae !important;   /* Orange fill */
     stroke: #f25fba !important; /* Orange outline */
 }
 
@@ -196,5 +196,5 @@ header.header {
 }
 
 [data-theme=dark] header.header {
-    background: #ba498f !important; /* Dark Blue for dark mode */
+    background: #510936 !important; /* Dark Blue for dark mode */
 }
