@@ -183,10 +183,10 @@
 
 /* Custom background for light mode */
 :root {
-    --theme: #DCAE96; /* Hex code for Dusty Rose */
+    --theme: #DCAE96  !important; /* Hex code for Dusty Rose */
 }
 
 /* Ensure dark mode remains unchanged */
 .dark {
-    --theme: #1d1e20; /* Default PaperMod dark color */
+    --theme: #1d1e20  !important; /* Default PaperMod dark color */
 }
