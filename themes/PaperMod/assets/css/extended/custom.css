@@ -72,6 +72,7 @@
     flex-wrap: wrap; /* Allows stacking on small mobile screens */
     gap: 15px;       /* Space between the two buttons */
     margin: 20px 0;
+    justify-content: center; /* This line centers the buttons */
 }
 
 /* Specific color for the Figma button */
