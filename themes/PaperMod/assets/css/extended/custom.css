@@ -205,5 +205,5 @@ header.header {
 }
 
 [data-theme=dark] header.header {
-    background: #4b4148 !important; /* Dark Blue for dark mode */
+    background: #5f5c5d !important; /* Dark Blue for dark mode */
 }
