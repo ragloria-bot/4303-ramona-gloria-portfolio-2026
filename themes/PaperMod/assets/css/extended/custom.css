@@ -122,7 +122,16 @@
     border: 5px solid var(--border);
     padding: 20px;
     border-radius: 12px;
-    background: #5f5c5d;
+    background: #e9b1cb !important; /* Dusty Rose */
+    box-shadow: var(--shadow);
+    transition: all 0.3s ease; /* Makes it reactive */
+}
+
+[data-theme=dark] .interactive-card {
+    border: 5px solid var(--border);
+    padding: 20px;
+    border-radius: 12px;
+    background: #5f5c5d !important; /* Dusty Rose */
     box-shadow: var(--shadow);
     transition: all 0.3s ease; /* Makes it reactive */
 }
@@ -199,7 +208,7 @@ header.header {
     background: #4b4148 !important; /* Dark Blue for dark mode */
 }
 
-a.entry-link {
-    border: 1px solid #f25fba !important; /* Orange border */
-    background:  #5f5c5d !important; /* Orange background */
+[data-theme=dark]a.entry-link {
+    border: 5px solid #f25fba !important; /* Orange border */
+    background: #5f5c5d;
 }
