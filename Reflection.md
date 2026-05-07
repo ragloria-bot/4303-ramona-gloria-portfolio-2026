@@ -11,7 +11,7 @@ it was a functional one intended to ensure that potential employers wouldn't mis
 of my site, regardless of whether they used light or dark mode.
 
 ## What Worked
-The transition from placeholder content to "substantive text" went very well. I am particularly satisfied
+The transition from placeholder content to substantive text went very well. I am particularly satisfied
 with the interactive hover effects. Implementing the orange (#FFA500) hover transition and the "lift" effect
 (translateY) made the site feel much more professional and responsive to the user's actions. Additionally,
 the Flexbox implementation for my button group worked perfectly. It solved the issue of the buttons feeling
