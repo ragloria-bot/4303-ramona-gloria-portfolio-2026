@@ -226,3 +226,31 @@ body:not(.dark),
 .dark .profile .profile_inner h2 {
     color: #e1e1e1 !important;
 }
+/* --- FIXING TEXT ON ABOUT & PROJECT PAGES --- */
+
+/* 1. Makes the "About Me" and "Passions" headings dark in Light Mode */
+:not(.dark) .post-content h1, 
+:not(.dark) .post-content h2, 
+:not(.dark) .post-content h3 {
+    color: #2c3e50 !important; /* Deep Navy/Charcoal */
+}
+
+/* 2. Fixes the invisible text inside your dark project cards */
+/* This forces the description text inside the cards to be white so it pops */
+.post-entry .entry-content, 
+.post-entry .entry-header h2 {
+    color: #ffffff !important; 
+}
+
+/* 3. If you want the 'About Me' paragraph text even darker */
+:not(.dark) .post-content {
+    color: #1a1a1a !important;
+}
+
+/* --- DARK MODE SAFETY --- */
+/* Ensures headings turn white when you switch to Dark Mode */
+.dark .post-content h1, 
+.dark .dark .post-content h2, 
+.dark .post-content h3 {
+    color: #e1e1e1 !important;
+}
