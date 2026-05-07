@@ -190,7 +190,11 @@
 }
 
 /* Change the background color of the main header */
-header, #header, .header-container {
+header.header {
     background-color: #f8e0eb !important; 
    
+}
+
+[data-theme=dark] header.header {
+    background: #ba498f !important; /* Dark Blue for dark mode */
 }
