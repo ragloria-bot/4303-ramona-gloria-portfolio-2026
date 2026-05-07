@@ -182,7 +182,7 @@
 }
 
 .list {
-    background: #d29cb5 !important; /* Hex code for Dusty Rose */
+    background: #e9b1cb !important; /* Hex code for Dusty Rose */
 }
 
 [data-theme=dark] .list {
@@ -191,7 +191,7 @@
 
 /* Change the background color of the main header */
 header.header {
-    background-color: #f8e0eb !important; 
+    background-color: #ffeff6 !important; 
    
 }
 
