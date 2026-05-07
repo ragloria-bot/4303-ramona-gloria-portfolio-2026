@@ -254,3 +254,31 @@ body:not(.dark),
 .dark .post-content h3 {
     color: #e1e1e1 !important;
 }
+
+/* --- HEADER & NAV READABILITY --- */
+
+/* Makes your Name and Tagline at the top dark and bold */
+:not(.dark) .header .logo a, 
+:not(.dark) .header .logo span {
+    color: #2c3e50 !important;
+    font-weight: 800;
+}
+
+/* Makes the Navigation links (About, Projects, etc.) dark charcoal */
+:not(.dark) #menu a {
+    color: #1d1e20 !important;
+    font-weight: 600;
+}
+
+/* Hover effect for Nav links so they turn your brand purple */
+:not(.dark) #menu a:hover {
+    color: #A259FF !important;
+}
+
+/* --- CONTACT PAGE TWEAKS --- */
+
+/* Ensures the bullet points and all text on the contact page are high contrast */
+:not(.dark) .post-content ul li,
+:not(.dark) .post-content p {
+    color: #1a1a1a !important;
+}
