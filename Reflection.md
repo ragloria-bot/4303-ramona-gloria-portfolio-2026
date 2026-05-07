@@ -12,7 +12,7 @@ of my site, regardless of whether they used light or dark mode.
 
 ## What Worked
 The transition from placeholder content to substantive text went very well. I am particularly satisfied
-with the interactive hover effects. Implementing the hot pink (#f25fba) hover transition and the "lift" effect
+with the interactive hover effects. Implementing the hot pink (#f25fba) hover transition and the lift effect
 (translateY) made the site feel much more professional and responsive to the user's actions. Additionally,
 the Flexbox implementation for my button group worked perfectly. It solved the issue of the buttons feeling
 stuck together and ensured that the gallery looks organized on both a desktop monitor and a mobile phone.
