@@ -208,7 +208,7 @@ header.header {
     background: #4b4148 !important; /* Dark Blue for dark mode */
 }
 
-[data-theme=dark]a.entry-link {
+[data-theme=dark] a.entry-link {
     border: 5px solid #f25fba !important; /* Orange border */
     background: #5f5c5d;
 }
