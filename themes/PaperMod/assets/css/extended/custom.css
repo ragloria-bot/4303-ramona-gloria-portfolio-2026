@@ -181,20 +181,25 @@
     text-decoration: none;
 }
 
-/* --- Light Mode Settings --- */
-/* This only triggers when the 'dark' class is NOT present on the body */
-body:not(.dark) {
-    background-color: #FFF0F5 !important; /* Light Pink */
-}
-
+/* 1. LIGHT MODE: Apply the light pink */
+body:not(.dark), 
+:not(.dark) .main, 
 :not(.dark) .header, 
-:not(.dark) .footer, 
-:not(.dark) .main,
-:not(.dark) .list,
-:not(.dark) .post-entry {
+:not(.dark) .footer {
     background-color: #FFF0F5 !important;
 }
 
-/* --- Dark Mode remains default --- */
-/* We don't add any code for .dark here, so PaperMod uses its own colors */
+/* 2. DARK MODE: Force the dark charcoal */
+/* #1d1e20 is the standard PaperMod dark color */
+body.dark, 
+.dark .main, 
+.dark .header, 
+.dark .footer {
+    background-color: #1d1e20 !important; 
+    color: #e1e1e1 !important; /* Ensures text stays light/readable */
+}
 
+/* 3. FIX FOR POST CARDS: Ensures project list items aren't pink in dark mode */
+.dark .post-entry, .dark .entry-footer, .dark .entry-header {
+    background-color: #2e2e33 !important;
+}
