@@ -9,7 +9,7 @@
 
 /* 2. Hover Color - MUST target the svg specifically */
 #theme-toggle:hover svg {
-    fill: #f740ae !important;   /* Orange fill */
+    fill: #e6c2d7 !important;   /* Orange fill */
     stroke: #f25fba !important; /* Orange outline */
 }
 
