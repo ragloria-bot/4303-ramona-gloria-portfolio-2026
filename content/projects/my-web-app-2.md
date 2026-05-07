@@ -1,5 +1,5 @@
 ---
-title: "Knowledge Base Website - PCOS"
+title: "Knowledge Base Website - PCOS | Obsidian"
 date: 2025-10-22
 draft: false
 summary: |
