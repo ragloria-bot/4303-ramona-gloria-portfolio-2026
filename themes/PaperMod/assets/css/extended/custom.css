@@ -70,7 +70,7 @@
 .button-group {
     display: flex;
     flex-wrap: wrap; /* Allows stacking on small mobile screens */
-    gap: 15px;       /* Space between the two buttons */
+    gap: 20px;       /* Space between the two buttons */
     margin: 20px 0;
     justify-content: center; /* This line centers the buttons */
 }
