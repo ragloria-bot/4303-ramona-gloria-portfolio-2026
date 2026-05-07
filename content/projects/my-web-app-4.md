@@ -1,5 +1,5 @@
 ---
-title: "Excalidraw | Product Design"
+title: "Product Design | Excalidraw "
 date: 2025-12-08
 draft: false
 summary: |
