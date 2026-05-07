@@ -24,7 +24,7 @@ profileMode:
       url: "#experience"
 ---
 
-## 🛠 Experience
+## 🛠️ Experience
 
 ### **Simulator Maintenance Technician II (KC-46)**
 **Flight Safety, Altus AFB** | *April 2026 - Present*
