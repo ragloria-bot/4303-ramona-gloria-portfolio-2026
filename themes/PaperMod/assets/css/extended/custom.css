@@ -2,7 +2,7 @@
 #theme-toggle svg {
     height: 28px !important; /* Slightly bigger to be noticeable */
     width: 28px !important;
-    fill: #c4aa19 !important;   /* Gold fill */
+    fill: #a19342 !important;   /* Gold fill */
     stroke: #ffd700 !important; /* Gold outline */
     transition: all 0.2s ease;
 }
