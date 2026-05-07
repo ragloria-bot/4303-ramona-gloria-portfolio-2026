@@ -181,27 +181,29 @@
     text-decoration: none;
 }
 
-/* 1. Define the Light Mode color (Pink) */
-:root {
-    --theme: #FFF0F5 !important;
+/* --- LIGHT MODE --- */
+body:not(.dark) {
+    /* Changing this to a slightly darker "Dusty Rose" or "Darker Pink" */
+    background-color: #f4cfdf !important; 
 }
 
-/* 2. Define the Dark Mode color (Charcoal) */
-/* This will only trigger when the 'dark' class is active */
-.dark {
-    --theme: #1d1e20 !important;
-    --entry: #2e2e33 !important;
-    --primary: #dadadb !important;
-    --secondary: #9b9c9d !important;
-    --tertiary: #414244 !important;
-    --content: #c4c4c5 !important;
+/* This keeps your cards/header white/standard while the background is pink */
+:not(.dark) .post-entry, 
+:not(.dark) .header, 
+:not(.dark) .footer {
+    background-color: #ffffff !important; 
 }
 
-/* 3. Apply the theme color to the background */
-body {
-    background-color: var(--theme) !important;
+
+/* --- DARK MODE --- */
+body.dark {
+    /* Darkening the background to a deep charcoal */
+    background-color: #121212 !important; 
 }
 
-.main, .header, .footer {
-    background-color: var(--theme) !important;
+/* This keeps the cards the standard lighter charcoal so they pop */
+.dark .post-entry, 
+.dark .header, 
+.dark .footer {
+    background-color: #1d1e20 !important; 
 }
