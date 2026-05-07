@@ -21,7 +21,7 @@ Seeing these elements come together to create a cohesive user experience was the
 ## What I Would Do Differently
 If I were to start over, I would focus more on DRY (Don't Repeat Yourself) CSS principles. Because I was troubleshooting
 button colors and hover states in real-time, my custom.css file became a bit repetitive. I would instead use CSS variables
-for my colors (like --brand-gold and --brand-purple) to make it easier to update the entire site’s theme in one place.
+for my colors to make it easier to update the entire site’s theme in one place.
 I would also change how I handled my folder architecture. I initially struggled with 404 errors because I had nested my
 markdown files too deeply. Starting with a flatter, simpler file structure would have saved me several hours of debugging
 Hugo's link-building logic.
