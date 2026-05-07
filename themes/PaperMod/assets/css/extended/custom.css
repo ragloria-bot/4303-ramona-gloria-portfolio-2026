@@ -180,3 +180,22 @@
     transform: translateY(-2px); 
     text-decoration: none;
 }
+
+/* LIGHT MODE: Force the background to light pink */
+body:not(.dark) {
+    background-color: #FFF0F5 !important; /* Lavender Blush Pink */
+}
+
+/* This targets the main content area, header, and footer in Light Mode */
+:not(.dark) .main, 
+:not(.dark) .header, 
+:not(.dark) .footer,
+:not(.dark) .list,
+:not(.dark) .post-entry {
+    background-color: #FFF0F5 !important;
+}
+
+/* DARK MODE: Leave as is or force charcoal to be safe */
+.dark {
+    background-color: #1d1e20 !important; /* Standard charcoal */
+}
